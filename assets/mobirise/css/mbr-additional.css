@@ -1640,6 +1640,10 @@ body {
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1734,6 +1738,10 @@ body {
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-buttons,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1795,7 +1803,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/timg-1920x1200.jpg");
+  background-image: url("../../../assets/images/img-7484-2000x1333.jpg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #55b4d4;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #cebfaf;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
